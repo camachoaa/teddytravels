@@ -1,0 +1,176 @@
+/* http://paletton.com/palette.php?uid=1310u0kqapBawEenuAHu3jEGWd4 */
+@import url('https://fonts.googleapis.com/css?family=Lato|Merriweather');
+html, body
+{
+    height: 100%;
+    background-color:;
+}
+header
+{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: 5em;
+    font-variant: small-caps;
+}
+ul
+{
+    margin:2;
+}
+li
+{
+    list-style-type: none;
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    border: 2px #325d6d solid;
+    font-size: 2em;
+}
+li:hover
+{
+    background-color: #327d99;
+}
+#a
+{
+    display:flex;
+    height:40%;
+}
+#two
+{
+    font-family: 'Lato', sans-serif;
+    padding: 1%;
+    font-size: 1.5em;
+}
+.gallery
+{
+    width: 75%;
+    height: 25%;
+    border: 10px #325d6d;
+    margin: 2px;
+    padding:10px;
+}
+.gallery:hover
+{
+    background-color: #327d99;
+}
+#bear
+{
+    width:100%;
+}
+#one, #three, #four
+{
+    font-family: 'Merriweather', serif;
+    font-size: 2.5em;
+    text-align: center;
+}
+#b
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#c
+{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+.fullscreen-bg 
+{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -1;
+}
+.fullscreen-bg__video 
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 150%;
+}
+#nature
+{
+    width: 30%;
+    height: 50%;
+    border: 4px #325d6d solid;
+    margin: 2px;
+    padding:5px;
+    display: block;
+    margin: auto;
+}
+/*header
+{
+    display: flex;
+    Height: 15%;
+    width: 100%;
+    border: 3px #2bb3e5 solid;
+    box-sizing: border-box;
+    margin-bottom: 1%;
+
+}
+section
+{
+    height: 35%;
+    width: 100%;
+    border: 3px #2bb3e5 solid;
+    box-sizing: border-box;
+    margin-bottom: 1%;
+}
+footer
+{
+    height: 10%;
+    width: 100%;
+    border: 3px #2bb3e5 solid;
+    box-sizing: border-box;
+}
+nav
+{
+    display: flex;
+    height: 35%;
+    width: 100%;
+    box-sizing: border-box;
+    bottom:5%;
+}
+ul
+{
+    margin:0;
+
+}
+li
+{
+    list-style-type: none;
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    border: 2px #325d6d solid;
+}
+li:hover
+{
+    background-color: #327d99;
+}
+div
+{
+    display: flex;
+    flex-direction: center;
+    font-size: 300%;
+}
+img
+{
+    height: 60%;
+    float: left;
+    margin: 2%;
+}
+#about
+{
+    font-size: 100%;
+    text-align: left;
+    margin: 1%;
+    float: clear;
+}
+div1
+{
+    font-size: 50px;
+}
+*/
