@@ -100,6 +100,11 @@ li:hover
     display: block;
     margin: auto;
 }
+a
+{
+    text-decoration: none;
+    color: black;
+}
 /*header
 {
     display: flex;
